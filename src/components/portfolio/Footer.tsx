@@ -18,7 +18,7 @@ export function Footer() {
           <div className="flex gap-3">
             {[
               { Icon: Github, href: "https://github.com/TaniyaDriburgh123" },
-              { Icon: Linkedin, href: "#" },
+              { Icon: Linkedin, href: "https://lk.linkedin.com/in/taniya-driburg-259b173a5" },
               { Icon: Mail, href: "mailto:tanidriburg@gmail.com" },
             ].map(({ Icon, href }, i) => (
               <a key={i} href={href} target="_blank" rel="noreferrer" className="grid h-10 w-10 place-items-center rounded-full glass hover:text-primary hover:shadow-[0_0_20px_rgba(212,168,83,0.3)] transition">

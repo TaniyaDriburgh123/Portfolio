@@ -39,3 +39,4 @@ bun run preview
 ## ✉️ Contact
 - **Email:** tanidriburg@gmail.com
 - **GitHub:** [TaniyaDriburgh123](https://github.com/TaniyaDriburgh123)
+- **LinkedIn:** [Taniya Driburg](https://lk.linkedin.com/in/taniya-driburg-259b173a5)

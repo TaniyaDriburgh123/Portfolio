@@ -40,8 +40,8 @@ export function Contact() {
                 <a href="https://github.com/TaniyaDriburgh123" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-foreground/90 hover:text-primary transition">
                   <Github className="h-4 w-4 text-primary" /> github.com/TaniyaDriburgh123
                 </a>
-                <a href="#" className="flex items-center gap-3 text-foreground/90 hover:text-primary transition">
-                  <Linkedin className="h-4 w-4 text-primary" /> LinkedIn (coming soon)
+                <a href="https://lk.linkedin.com/in/taniya-driburg-259b173a5" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-foreground/90 hover:text-primary transition">
+                  <Linkedin className="h-4 w-4 text-primary" /> linkedin.com/in/taniya-driburg
                 </a>
               </div>
             </div>
